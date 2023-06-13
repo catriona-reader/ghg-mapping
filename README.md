@@ -1,5 +1,7 @@
 ## Running this notebook 
 
+All code can be found [here.](Greenhouse%20Gasses.ipynb) 
+
 This notebook makes use of geopandas. To install I'd recommend creating a new environment to avoid dependancy conflicts. You can do so by running the following code: 
 
 ```
@@ -28,9 +30,12 @@ You'll now be able to launch juptyter lab or notebook from your base environment
 
 ## Data 
 
-Downloaded boundary line data from the Ordance Survey website: https://osdatahub.os.uk/downloads/open/BoundaryLine 
-
 Downloaded Local Authority shapefiles from from the UK gov geoportal website: https://geoportal.statistics.gov.uk/datasets/ons::local-authority-districts-may-2022-uk-bfe-v3-1/about 
 
 Downloaded greenhouse gas emmissions data from: update 
 Possible additional source of data: https://ckan.publishing.service.gov.uk/dataset/uk_greenhouse_gas_emissions 
+
+To run this notebook, you'll need to download and save the files in a data/ directory. 
+
+
+![Greenhouse Gas Emissions 2020](imgs/ghg_example.png)

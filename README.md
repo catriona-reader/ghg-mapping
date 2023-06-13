@@ -30,12 +30,14 @@ You'll now be able to launch juptyter lab or notebook from your base environment
 
 ## Data 
 
-Downloaded Local Authority shapefiles from from the UK gov geoportal website: https://geoportal.statistics.gov.uk/datasets/ons::local-authority-districts-may-2022-uk-bfe-v3-1/about 
+Downloaded Local Authority shapefiles from from the [UK gov geoportal website](https://geoportal.statistics.gov.uk/datasets/ons::local-authority-districts-may-2022-uk-bfe-v3-1/about)
 
-Downloaded greenhouse gas emmissions data from: update 
-Possible additional source of data: https://ckan.publishing.service.gov.uk/dataset/uk_greenhouse_gas_emissions 
+Downloaded greenhouse gas emmissions data from [data.gov.uk Data Publishing](https://ckan.publishing.service.gov.uk/dataset/local_authority_carbon_dioxide_emissions)
 
 To run this notebook, you'll need to download and save the files in a data/ directory. 
+
+
+## Example Output 
 
 
 ![Greenhouse Gas Emissions 2020](imgs/ghg_example.png)
